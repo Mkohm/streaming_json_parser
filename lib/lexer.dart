@@ -135,7 +135,8 @@ List<dynamic> lex(String string) {
       tokens.add(c);
       string = string.substring(1);
     } else {
-      throw Exception('Unexpected character: $c');
+      //throw Exception('Unexpected character: $c');
+      break;
     }
   }
 
