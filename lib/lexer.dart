@@ -1,3 +1,5 @@
+part of 'streaming_json_parser.dart';
+
 const String JSON_COMMA = ',';
 const String JSON_COLON = ':';
 const String JSON_LEFTBRACKET = '[';

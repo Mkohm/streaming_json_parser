@@ -1,6 +1,4 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:streaming_json_parser/lexer.dart';
-import 'package:streaming_json_parser/parser.dart';
 import 'package:streaming_json_parser/streaming_json_parser.dart';
 
 void main() {

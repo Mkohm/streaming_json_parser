@@ -1,7 +1,7 @@
 library streaming_json_parser;
 
-import 'lexer.dart';
-import 'parser.dart';
+part 'lexer.dart';
+part 'parser.dart';
 
 Map<String, dynamic> parse(String jsonString) {
   var tokens = lex(jsonString);

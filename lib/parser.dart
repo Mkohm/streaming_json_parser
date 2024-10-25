@@ -1,4 +1,4 @@
-import 'lexer.dart';
+part of 'streaming_json_parser.dart';
 
 List<dynamic> parseArray(List<dynamic> tokens) {
   List<dynamic> jsonArray = [];
