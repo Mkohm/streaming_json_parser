@@ -32,7 +32,7 @@ In the `pubspec.yaml`, add the following dependency:
 
 ```yaml
 dependencies:
-  streaming_json_parser: ^0.0.1
+  streaming_json_parser: ^0.0.2
 ```
 
 In your library file add the following import:

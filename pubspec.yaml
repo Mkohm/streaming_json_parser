@@ -1,6 +1,6 @@
 name: streaming_json_parser
 description: "A JSON parser that parses streaming or incomplete JSON"
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/Mkohm/streaming_json_parser
 
 environment:
