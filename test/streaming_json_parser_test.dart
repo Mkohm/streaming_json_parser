@@ -125,5 +125,10 @@ void main() {
         "key": ["value", "value2"]
       });
     });
+
+    test("parse example 4", () {
+      var result = parse('{"');
+      expect(result, {});
+    });
   });
 }

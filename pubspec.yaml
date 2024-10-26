@@ -1,10 +1,10 @@
 name: streaming_json_parser
 description: "A JSON parser that parses streaming or incomplete JSON"
-version: 0.0.3
+version: 0.0.4
 repository: https://github.com/Mkohm/streaming_json_parser
 
 environment:
-  sdk: ^3.5.3
+  sdk: ">=3.3.4 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
